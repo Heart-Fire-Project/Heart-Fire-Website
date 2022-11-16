@@ -4,7 +4,7 @@
 
 Heart Fire Project 的网页是由 [Docusaurus](https://github.com/facebook/docusaurus) 为框架搭建的。
 
-本存储库存储的是**构建前**的内容，构建完成的静态网页存储库在 [Heart-Fire-Project/Heart-Fire-Deploy](https://github.com/Heart-Fire-Project/Heart-Fire-Deploy) 可以找到。
+本存储库的 main 分支存储的是**构建前**的内容，构建完成的静态网页存储库在本存储库的 gh-pages 分支可以找到。
 
 ## 开始编辑
 
